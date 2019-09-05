@@ -1,5 +1,5 @@
 # Ek-sheba
-This project is designed for entrepreneurs. Through this platform, entrepreneurs provide government and nongovernment services to people from one place.<brbr>
+This project is designed for entrepreneurs. Through this platform, entrepreneurs provide government and nongovernment services to people from one place.<br><br>
   Some part of our project are given below:<br>
   SPlash screen<br>
    <img src="images/Splash.png"><br><br> 
